@@ -1,5 +1,5 @@
 # moltoa
-Python script to convert molecular structures in SDF format to Arnold renderer
+Python script to convert molecular structures in SDF format (available e.g. at https://pubchem.ncbi.nlm.nih.gov) to Arnold renderer
 
 Usage is:
 ```
