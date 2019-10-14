@@ -10,13 +10,11 @@ This generates `my_molecule.ass` in the working directory, which can be rendered
 ```
 kick -nostdin -device cpu -as 4 -ipr -i my_molecule.ass
 ```
+![](./renders/THC.png?raw=true "THC") ![](./renders/THC_toon.png?raw=true "THC (toon render)")
 
-![](./renders/THC.png?raw=true "THC (toon render)")
+![](./renders/ibuprofen.png?raw=true "ibuprofen") ![](./renders/ibuprofen_toon.png?raw=true "ibuprofen (toon render)")
 
-<img src="./renders/THC.png"/><img src="./renders/THC_toon.png"/>
+![](./renders/caffeine.png?raw=true "caffeine") ![](./renders/caffeine_toon.png?raw=true "caffeine (toon render)")
 
-<img src="./renders/ibuprofen.png"/><img src="./renders/ibuprofen_toon.png"/>
+![](./renders/fluoxetine.png?raw=true "fluoxetine") ![](./renders/fluoxetine_toon.png?raw=true "fluoxetine (toon render)")
 
-<img src="./renders/caffeine.png"/><img src="./renders/caffeine_toon.png"/>
-
-<img src="./renders/fluoxetine.png"/><img src="./renders/fluoxetine_toon.png"/>
